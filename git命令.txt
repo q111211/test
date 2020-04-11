@@ -1,5 +1,0 @@
-$ git config --global user.nam "q111211"
-
-$ git config --global user.email "q111211@sina.com"
-
-  
